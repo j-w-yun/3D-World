@@ -2,7 +2,7 @@
 
 ![alt tag](https://github.com/jaewany/3D_World/blob/master/pics/Untitled11.png)
 
-Close-up of block texture. Anti aliasing is evident.
+Close-up of block texture. Anti aliasing does not seem to work.
 
 ![alt tag](https://github.com/jaewany/3D_World/blob/master/pics/Untitled12.png)
 
