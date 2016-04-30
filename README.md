@@ -14,12 +14,8 @@ Fog effect.
 
 ![alt tag](https://github.com/jaewany/3D_World/blob/master/pics/Untitled14.png)
 
-(Transparent view) Not rendering blocks that are completely encased by other blocks.
+(Transparent view) Not rendering blocks that are completely encased by other blocks saves a lot of gpu memory.
 
 ![alt tag](https://github.com/jaewany/3D_World/blob/master/pics/Untitled15.png)
 
 (Transparent view) Ambient occlusion.
-
-![alt tag]()
-
-![alt tag]()
