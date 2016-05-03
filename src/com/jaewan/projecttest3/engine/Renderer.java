@@ -144,7 +144,7 @@ public class Renderer
 
 		// Start at 1 to avoid drawing 1st degenerate vertex and messing
 		// everything else up
-		glDrawArrays(GL_TRIANGLES, 1, numVerts); //(GL_TRIANGLE_STRIP, 1, numVerts);
+		glDrawArrays(GL_TRIANGLE_STRIP, 1, numVerts); //(GL_TRIANGLE_STRIP, 1, numVerts);
 
 		// Black lines
 		glColor3b((byte) -127, (byte) -127, (byte) -127);
